@@ -6,6 +6,8 @@ Estudante de Programação Backend
 
 Cursando graduação em Sistemas de Informação
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaSantos05&show_icons=true&theme=radical)
+
 
 
 ### ❤️ Let's get connected:
@@ -18,5 +20,7 @@ Cursando graduação em Sistemas de Informação
   <img align="center" alt="js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  
 </div>
+
+
+
