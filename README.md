@@ -2,7 +2,7 @@
 
 Eu sou Amanda Santos
 
-Estudante de Programação Backend
+Estudante de Programação FullStack
 
 Cursando graduação em Sistemas de Informação
 
